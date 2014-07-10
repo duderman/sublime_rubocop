@@ -6,15 +6,9 @@ The Plugin currently supports both ST2 and ST3, but the usage of ST3 is strongly
 
 ## Installation
 
-Preferred way:
-
-Install Sublime RuboCop via [Package Control](http://wbond.net/sublime_packages/package_control).
-
-Alternative way:
-
 1. Navigate to the Sublime Text Packages folder (You can find the location of the Packages folder [here](http://docs.sublimetext.info/en/latest/basic_concepts.html#the-data-directory)).
 
-2. Run the git clone command right inside the packages directory: `git clone git@github.com:pderichs/sublime_rubocop.git "RuboCop"`
+2. Run the git clone command right inside the packages directory: `git clone git@github.com:duderman/sublime_rubocop.git "RuboCop"`
 
 3. Restart Sublime Text.
 
